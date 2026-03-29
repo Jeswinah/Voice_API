@@ -1,0 +1,6 @@
+
+fastapi
+librosa
+numpy
+scipy
+python-multipart
